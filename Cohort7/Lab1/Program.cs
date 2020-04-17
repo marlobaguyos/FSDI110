@@ -7,9 +7,6 @@ namespace Lab1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-        }
-
-        int Test() {
             Console.WriteLine("First method");
             
             var p = new Program();
@@ -29,8 +26,15 @@ namespace Lab1
             float f = 123.12f;
             decimal d = 123.123m;
 
-            string n = "98z";
+            string n = "98";
             int res = int.Parse(n);
+
+            string[] names = new string[100];
+            names[0] = "asd";
+            names[1] = "123123";
+            names[6] = "ajklasl";
+
+            //string [] [] cube = new string[99][];
         }
         string FullName(string first, string last) {
             return first + " " + last;
