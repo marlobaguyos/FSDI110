@@ -8,5 +8,11 @@ namespace Lab1
         {
             Console.WriteLine("Hello World!");
         }
+
+        int Test() {
+            Console.WriteLine("First method");
+            return 1;
+        }
+
     }
 }
