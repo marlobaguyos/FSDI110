@@ -23,3 +23,16 @@ C:/Users/mabaguyo/Documents/GitHub/School/FSDI110/Cohort7/Lab1/obj/Debug/netcore
 /Users/marlobaguyos/Documents/School/FSDI110/Cohort7/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
 /Users/marlobaguyos/Documents/School/FSDI110/Cohort7/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
 /Users/marlobaguyos/Documents/School/FSDI110/Cohort7/Lab1/obj/Debug/netcoreapp3.1/Lab1.genruntimeconfig.cache
+C:\repo\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\repo\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\repo\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\repo\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\repo\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\repo\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\repo\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\repo\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\repo\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\repo\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\repo\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\repo\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\repo\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
