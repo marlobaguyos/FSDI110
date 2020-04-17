@@ -27,6 +27,20 @@ namespace Lab1
             }
             Console.WriteLine(numbers);
 
+            var sum = 0;
+            foreach (int num in numbers)
+            {
+                if(num > 10){
+                    sum += num;
+                }  
+            }
+
+            // for (int j = 0; j < numbers.Count; j++){
+            //     sum += numbers[j];
+            // }
+            System.Console.WriteLine("Total: " + sum);
+
+            NoReturns();
 
         }
 
