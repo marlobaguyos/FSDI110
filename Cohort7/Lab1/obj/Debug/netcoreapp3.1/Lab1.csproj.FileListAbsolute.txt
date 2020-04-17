@@ -1,0 +1,13 @@
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+C:\Users\mabaguyo\Documents\GitHub\School\FSDI110\Cohort7\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
