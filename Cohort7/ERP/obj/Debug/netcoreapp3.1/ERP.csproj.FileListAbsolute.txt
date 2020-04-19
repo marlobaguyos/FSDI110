@@ -35,3 +35,4 @@
 /Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/obj/Debug/netcoreapp3.1/ERP.genruntimeconfig.cache
 /Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/obj/Debug/netcoreapp3.1/ERP.csproj.CopyComplete
 /Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/obj/Debug/netcoreapp3.1/Razor/Views/Message/SayHello.cshtml.g.cs
+/Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/obj/Debug/netcoreapp3.1/Razor/Views/Home/about.cshtml.g.cs
