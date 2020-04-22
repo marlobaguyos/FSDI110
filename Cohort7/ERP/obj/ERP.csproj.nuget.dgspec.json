@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/ERP.csproj": {}
+    "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj": {}
   },
   "projects": {
-    "/Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/ERP.csproj": {
+    "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/ERP.csproj",
+        "projectUniqueName": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj",
         "projectName": "ERP",
-        "projectPath": "/Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/ERP.csproj",
-        "packagesPath": "/Users/marlobaguyos/.nuget/packages/",
-        "outputPath": "/Users/marlobaguyos/Documents/School/FSDI110/Cohort7/ERP/obj/",
+        "projectPath": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj",
+        "packagesPath": "C:\\Users\\mabaguyo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/marlobaguyos/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mabaguyo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
