@@ -4,7 +4,7 @@ $.ajax({
     url: '/catalog/getCatalog',
     type: 'POST',
     contentType: 'application/json',
-    data: JSON.stringify(car),
+    data: JSON.stringify(cars),
     success: function(res){
         console.log("Server responded", res);
     },
