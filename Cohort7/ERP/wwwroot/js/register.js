@@ -4,9 +4,9 @@ function registerCar(){
     var image=$("#txtImage").val();
     var make = $("#txtMake").val();
     var model = $("#txtModel").val();
-    var year = $("#txtYear").val();
+    var year = $("#numYear").val();
     var color=$("#txtColor").val();
-    var seats=$("#txtSeats").val();
+    var seats=$("#numSeats").val();
     var price=$("#txtPrice").val();
     var mileage=$("#txtMileage").val();
     var condition=$("#selCondition").val();
