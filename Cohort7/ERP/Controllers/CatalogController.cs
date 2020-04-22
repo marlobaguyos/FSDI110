@@ -23,6 +23,13 @@ namespace ERP.Controllers
     // public IActionResult Catalog(){
     //   return View();
     // }
-  }
+
+  //   [HttpPost]
+  //   public IActionResult SaveCar([FromBody]){
+      
+  //   }
+
+
+  // }
 
 }

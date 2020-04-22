@@ -23,58 +23,58 @@ MPG
     <div class="form-group row">
         <label for="textImage" class="col-4 col-form-label">Image Url</label>
         <div class="col-8">
-            <input id="textImage" name="textImage" type="text" class="form-control">
+            <input id="txtImage" name="textImage" type="text" class="form-control">
         </div>
     </div>
     <div class="form-group row">
         <label for="txtMake" class="col-4 col-form-label">Make</label>
         <div class="col-8">
-            <input id="txtMake" name="txtMake" type="text" class="form-control">
+            <input id="txtMake" name="textMake" type="text" class="form-control">
         </div>
     </div>
     <div class="form-group row">
         <label for="textModel" class="col-4 col-form-label">Model</label>
         <div class="col-8">
-            <input id="textModel" name="textModel" type="text" class="form-control">
+            <input id="txtModel" name="textModel" type="text" class="form-control">
         </div>
     </div>
     <div class="form-group row">
-      <label for="textYear" class="col-4 col-form-label">Year</label>
-      <div class="col-8">
-        <input id="textYear" name="textYear" type="Date" class="form-control">
-      </div>
-    </div>
-    <div class="form-group row">
-      <label for="textColor" class="col-4 col-form-label">Color</label>
-      <div class="col-8">
-        <input id="textColor" name="textColor" type="text" class="form-control">
-      </div>
-    </div>
-    <div class="form-group row">
-      <label for="textSeats" class="col-4 col-form-label">Seats</label>
-      <div class="col-8">
-        <input id="textSeats" name="textSeats" type="number" class="form-control">
-      </div>
-    </div>
-    <div class="form-group row">
-      <label for="textPrice" class="col-4 col-form-label">Price</label>
-      <div class="col-8">
-        <div class="input-group">
-          <div class="input-group-prepend">
-            <div class="input-group-text">$</div>
-          </div>
-          <input id="textPrice" name="textPrice" type="number" class="form-control">
-          <div class="input-group-append">
-            <div class="input-group-text">USD</div>
-          </div>
+        <label for="textYear" class="col-4 col-form-label">Year</label>
+        <div class="col-8">
+            <input id="txtYear" name="textYear" type="number" class="form-control">
         </div>
-      </div>
     </div>
     <div class="form-group row">
-      <label for="textMileage" class="col-4 col-form-label">Mileage</label>
-      <div class="col-8">
+        <label for="textColor" class="col-4 col-form-label">Color</label>
+        <div class="col-8">
+            <input id="txtColor" name="textColor" type="text" class="form-control">
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="textSeats" class="col-4 col-form-label">Seats</label>
+        <div class="col-8">
+            <input id="txtSeats" name="textSeats" type="number" class="form-control">
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="textPrice" class="col-4 col-form-label">Price</label>
+        <div class="col-8">
+            <div class="input-group">
+            <div class="input-group-prepend">
+                <div class="input-group-text">$</div>
+            </div>
+            <input id="txtPrice" name="textPrice" type="number" class="form-control">
+            <div class="input-group-append">
+                <div class="input-group-text">USD</div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label for="textMileage" class="col-4 col-form-label">Mileage</label>
+        <div class="col-8">
         <div class="input-group">
-          <input id="textMileage" name="textMileage" type="number" class="form-control">
+            <input id="txtMileage" name="textMileage" type="number" class="form-control">
           <div class="input-group-append">
             <div class="input-group-text">mi</div>
           </div>
@@ -94,7 +94,7 @@ MPG
       <label for="textMPG" class="col-4 col-form-label">MPG</label>
       <div class="col-8">
         <div class="input-group">
-          <input id="textMPG" name="textMPG" type="number" class="form-control">
+          <input id="txtMPG" name="textMPG" type="number" class="form-control">
           <div class="input-group-append">
             <div class="input-group-text">mi</div>
           </div>
@@ -103,7 +103,7 @@ MPG
     </div>
     <div class="form-group row">
       <div class="offset-4 col-8">
-        <button name="submit" type="button" class="btn btn-primary">
+        <button name="submit" type="button" class="btn btn-primary" id="carSave">
           <i class="fa fa-save"></i>
           Register Car
         </button>
