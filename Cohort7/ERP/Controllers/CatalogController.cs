@@ -20,9 +20,9 @@ namespace ERP.Controllers
       return View();
     }
     
-    // public IActionResult Catalog(){
-    //   return View();
-    // }
+    public IActionResult Catalog(){
+      return View();
+    }
 
   //   [HttpPost]
   //   public IActionResult SaveCar([FromBody]){
@@ -30,6 +30,6 @@ namespace ERP.Controllers
   //   }
 
 
-  // }
+  }
 
 }
