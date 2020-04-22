@@ -34,6 +34,22 @@ namespace ERP.Controllers
 
     }
 
+    [HttpGet]
+    public IActionResult GetCatalog() {
+      // read the list from the DB
+      // send the list of cars
+
+    List<Car> cars = new List<Car>();
+    var c1 = new Car();
+    c1.Make = "VM";
+    c1.Model = "Karmann Ghia";
+    c1.Year = 1980;
+
+    cars.Add(c1);
+
+    return Json(cars);
+    }
+
 
   }
 
