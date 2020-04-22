@@ -7,10 +7,10 @@ function registerCar(){
     var year = $("#numYear").val();
     var color=$("#txtColor").val();
     var seats=$("#numSeats").val();
-    var price=$("#txtPrice").val();
-    var mileage=$("#txtMileage").val();
+    var price=$("#numPrice").val();
+    var mileage=$("#numMileage").val();
     var condition=$("#selCondition").val();
-    var mpg=$("#txtMPG").val();
+    var mpg=$("#numMPG").val();
 
     var priceNum=0;
     if(price){
