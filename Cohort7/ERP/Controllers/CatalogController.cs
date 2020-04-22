@@ -24,10 +24,15 @@ namespace ERP.Controllers
       return View();
     }
 
-  //   [HttpPost]
-  //   public IActionResult SaveCar([FromBody]){
-      
-  //   }
+    [HttpPost]
+    public IActionResult SaveCar([FromBody] Car car){
+      System.Console.WriteLine("Saving new car");
+      System.Console.WriteLine(car.Make);
+
+      car.Id = 1;
+      return Json(car);
+
+    }
 
 
   }

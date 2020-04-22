@@ -19,7 +19,7 @@ function registerCar(){
 
     var yearNum=0;
     if(year){
-        yearNum = parseFloat(years);
+        yearNum = parseFloat(year);
     }
 
     var seatsNum=0;
@@ -48,7 +48,7 @@ function registerCar(){
 
     //Send the object on AjAX req
     $.ajax({
-        url: '',
+        url: '/catalog/saveCar',
         type: 'POST',
         contentType: 'application/json',
         data: JSON.stringify(car),
