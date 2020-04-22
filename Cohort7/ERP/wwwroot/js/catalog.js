@@ -2,16 +2,14 @@ function retrieveCatalog() {
 //url: /catalog/getCatalog
 $.ajax({
     url: '/catalog/getCatalog',
-    type: 'POST',
-    contentType: 'application/json',
-    data: JSON.stringify(cars),
+    type: 'GET',
     success: function(res){
-        console.log("Server responded", res);
+        console.warn("From server", res);
     },
     error: function(detail) {
-        console.log("Error on request", detail);
+        console.error(detail);
     }
-})
+});
 
 }
 
