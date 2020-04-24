@@ -12,6 +12,14 @@ namespace ERP.Controllers
 
   public class CatalogController : Controller {
 
+    private DataContext dbContext;
+    public CatalogController(DataContext context)
+    {
+      dbContext = context;
+    }
+
+    // /catalog/index
+    // /catalog
     public IActionResult Index() {
       return View();
     }
@@ -29,7 +37,10 @@ namespace ERP.Controllers
       System.Console.WriteLine("Saving new car");
       System.Console.WriteLine(car.Make);
 
-      car.Id = 1;
+      // save car to DB
+      dbContext.Cars.Add(car);
+      dbContext.SaveChanges();
+
       return Json(car);
 
     }
