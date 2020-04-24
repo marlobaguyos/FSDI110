@@ -1,3 +1,10 @@
+.navbar {
+    border: 0;
+}
+.xyz {
+    background-color: #ABABAB;
+    margin: 0;
+}
 .item{
     border:2px solid #ABABAB;
     display: inline-block;
@@ -8,12 +15,14 @@
     padding: 10px;
     vertical-align: top;
     color: #141413;
+    text-align: center;
 }
 
 .item img{
     width: 400px;
     height: 350px;
     margin: 5px;
+    border-radius: 5px;
 }
 
 .item .button-div{
