@@ -18,6 +18,22 @@ $.ajax({
 
 }
 
+function displayCar(car){
+    //get container
+    var container = $("#catalog");
+
+    //create template/sintax
+    var sntx = 
+    `<div> 
+        <h3>${container.car} Make Model</h3>
+        image here
+    </div>`;
+
+    //add template to container
+    container.append(sntx);
+
+}
+
 function init() {
     console.log("Catalog page!");
     // get data
