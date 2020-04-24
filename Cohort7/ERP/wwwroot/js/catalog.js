@@ -5,6 +5,11 @@ $.ajax({
     type: 'GET',
     success: function(res){
         console.warn("From server", res);
+        // display cars on the HTML
+        for(let i=0; i<res.lenght; i++)
+        {
+            displayCar(res[i]);
+        }
     },
     error: function(detail) {
         console.error(detail);
