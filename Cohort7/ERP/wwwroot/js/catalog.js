@@ -6,7 +6,7 @@ $.ajax({
     success: function(res){
         console.warn("From server", res);
         // display cars on the HTML
-        for(let i=0; i<res.lenght; i++)
+        for(let i=0; i<res.length; i++)
         {
             displayCar(res[i]);
         }
@@ -25,7 +25,7 @@ function displayCar(car){
     //create template/sintax
     var sntx = 
     `<div> 
-        <h3>${container.car} Make Model</h3>
+        <h3>year Make Model</h3>
         image here
     </div>`;
 
