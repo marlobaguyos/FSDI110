@@ -1,6 +1,13 @@
 using Microsoft.EntityFrameworkCore;
 
-namespace ERP.Models {
+namespace ERP.Models 
+{
+    /*
+        Class to handle connection between DB and model classes
+        **If you modify, change on the models:
+        Create a migration: dotnet ef migrations add <someName>
+        Update database: dotnet ef database update
+    */
     public class DataContext: DbContext
     {
         public DataContext(DbContextOptions<DataContext> options): base(options){
