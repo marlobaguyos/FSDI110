@@ -1,0 +1,22 @@
+.item{
+    border:2px solid #ABABAB;
+    display: inline-block;
+    width: 440px;
+    height: 700px;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 10px;
+    vertical-align: top;
+    color: #141413;
+}
+
+.item img{
+    width: 400px;
+    height: 350px;
+    margin: 5px;
+}
+
+.item .button-div{
+    text-align: center;
+}
+

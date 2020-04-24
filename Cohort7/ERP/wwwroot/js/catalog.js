@@ -20,14 +20,28 @@ $.ajax({
 
 function displayCar(car){
     //get container
+
     var container = $("#catalog");
 
-    //create template/sintax
-    var sntx = 
-    `<div> 
-        <h3>year Make Model</h3>
-        image here
+    //create template/sntax
+    var sntx =  
+    `<div class="item" id="${car.year}">
+    <img class="image" src="${car.image}">
+    <h4>${car.year} ${car.make} ${car.model}</h4>
+    <h6 class="item-price">Price: $${car.price}</h6>
+    <p>Condition: ${car.color}</p>
+    <p>Condition: ${car.condition}</p>
+    <p>Condition: ${car.seats}</p>
+    <p>Condition: ${car.mileage}</p>
+    <p>Condition: ${car.mpg}</p>
+    <div class="button-div">
+        <button class="btn btn-primary mb-2">Add to Cart</button>
+    </div>
+    
     </div>`;
+    //     <h3>${car.year} ${car.make} ${car.model}</h3>
+    //     image here
+    // </div>`;
 
     //add template to container
     container.append(sntx);
