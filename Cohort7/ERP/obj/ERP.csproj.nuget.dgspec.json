@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\Cohort7\\ERP\\ERP.csproj": {}
+    "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\Cohort7\\ERP\\ERP.csproj": {
+    "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\Cohort7\\ERP\\ERP.csproj",
+        "projectUniqueName": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj",
         "projectName": "ERP",
-        "projectPath": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\Cohort7\\ERP\\ERP.csproj",
+        "projectPath": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj",
         "packagesPath": "C:\\Users\\mabaguyo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\Cohort7\\ERP\\obj\\",
+        "outputPath": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mabaguyo\\AppData\\Roaming\\NuGet\\NuGet.Config"

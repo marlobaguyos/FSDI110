@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "13yTQd9wCQ157soElcVfX1huqvBN8RAtfd4UY4UcQnGB07EtwPkZdRx3VvQLWXBa8BbXpz5s4XaYz3EiQJn+Cw==",
+  "dgSpecHash": "FLQVYyD89du3+zclFVwjujG6uhHT20N3/fTNA4BJQiWWvH5fiadkvvxalDuBTEj8bUbiRGp8Gv1AtvrzfKsDnQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\Cohort7\\ERP\\ERP.csproj",
+  "projectFilePath": "C:\\Users\\mabaguyo\\Documents\\GitHub\\School\\FSDI110\\cohort7\\ERP\\ERP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mabaguyo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\mabaguyo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
