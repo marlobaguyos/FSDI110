@@ -3,3 +3,17 @@ img{
     height: 500;
 }
 
+.image {
+    border-radius: 10px;
+}
+
+.pogi {
+    text-align: center;
+}
+
+.xyz {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+}
