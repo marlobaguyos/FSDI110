@@ -26,8 +26,8 @@ function displayCar(car) {
     var sntx =
     `<div class="item" id="${car.year}">
 
-    <hr class="featurette-divider">
-        <div class="row featurette">
+    <hr class="featurette-divider hrmt">
+        <div class="row featurette mb-3">
             <div class="col-md-5 order-md-2 xyz">
                 <h2 class="featurette-heading">${car.year} ${car.make}<span class="text-muted"> ${car.model}</span></h2>
                 <p class="lead font-weight-bold">${car.color} | ${car.seats} Seats | <strong>$${car.price}</strong></p>
